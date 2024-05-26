@@ -1,6 +1,6 @@
 
 # Custom Map Loader - Rooftops & Alleys
-# Mod Version: Public Beta 1
+### Mod Version: Public Beta 1
 
 If you are only a player, read the player section. If you are a mapper, read the two sections so your map can work correctly!
 
