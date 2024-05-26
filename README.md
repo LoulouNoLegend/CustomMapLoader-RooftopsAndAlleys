@@ -4,7 +4,7 @@
 
 If you are only a player, read the player section. If you are a mapper, read the two sections so your map can work correctly!
 
-## For Players
+## For Players and Modders
 **Enter the menu:**
 In the main menu go to *Tutorials > Advanced*.
 
@@ -21,7 +21,7 @@ If the map name is not working, be sure that it's writted correctly. Enjoy!
 
 
 
-## For Modders / Mappers
+## Only for Modders
 
 When creating your map, here's some tips to follow:
 ### The folders and how to place your files
