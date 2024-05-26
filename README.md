@@ -55,7 +55,7 @@ After all that, your 3 files should look like this: `CM_MapName_P.<fileExtention
 Share it and you are done!
 
 
-## FAW
+## FAQ
 
 ### Why `CM_`?
 It is simply a way to easily recognize mods that are a custom map.
