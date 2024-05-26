@@ -13,7 +13,7 @@ If the mod is correctly installed, it should normally open the map loader menu. 
 ![image](https://github.com/LoulouNoLegend/CustomMapLoader-Rooftops-Alleys/assets/40952934/9eaa872d-c364-4822-a2b7-9a01444f07c9)
 
 
-You don't need to include `CM_` when entering the name of the map in the *Level Name* entry, since the mod already writes it. This prefix is only a way for modders to make their map be recognized correctly by the map loader.
+You don't need to include `CM_` when entering the name of the map in the *Level Name* entry, since the mod already writes it.
 
 After entering the map name, click on Load and enjoy!
 
@@ -23,11 +23,14 @@ If the map name is not working, be sure that it's writted correctly. Enjoy!
 
 ## Only for Modders
 
-When creating your map, here's some tips to follow:
+When creating your map, here's some tips:
 ### The folders and how to place your files
 All your content need to be places in a specific way to work correctly and not interfer with other custom maps.
 
-Create a *CustomMaps* folder inside the *Content* folder where you can place your level, and named with the `CM_` prefix. (Ex: `CM_DustCS2`)
+Create a *CustomMaps* folder inside the *Content* folder where you can place your level.
+If you want, you can add the `CM_` prefix to your map name, to simply specify that your mod is a custom map. (Ex: `CM_DustCS2`)
+
+⚠️ **Be sure to place every assets and sub folders (ex: textures, materials..) of your map in a folder that is the same name as your map to prevent that if the user as multiple custom maps, they don't break each-others!**
 
 ```
 └── Content/
@@ -53,3 +56,9 @@ When your map is complete and packed, do this:
 After all that, your 3 files should look like this: `CM_MapName_P.<fileExtention>`
 
 Share it and you are done!
+
+
+## FAW
+
+### Why `CM_`?
+It is simply a way to easily recognize mods that are a custom map.
