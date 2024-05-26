@@ -1,6 +1,6 @@
 
 # Custom Map Loader - Rooftops & Alleys
-### Mod Version: Public Beta 1
+### Mod Version: Public Beta 1 - At the moment, this mod is being re-made to fit in the main menu.
 
 If you are only a player, read the player section. If you are a mapper, read the two sections so your map can work correctly!
 
@@ -10,14 +10,12 @@ In the main menu go to *Tutorials > Advanced*.
 
 If the mod is correctly installed, it should normally open the map loader menu. For now, the map loader works by entering the name of the custom map. In the future, a list should be added to directly select it.
 
-![image](https://github.com/LoulouNoLegend/CustomMapLoader-Rooftops-Alleys/assets/40952934/9eaa872d-c364-4822-a2b7-9a01444f07c9)
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/8d1561e5-7232-4de0-a9e0-859778b1b254)
 
-
-You don't need to include `CM_` when entering the name of the map in the *Level Name* entry, since the mod already writes it.
 
 After entering the map name, click on Load and enjoy!
 
-If the map name is not working, be sure that it's writted correctly. Enjoy!
+If the map name is not working, be sure that it's writted correctly or try the other method. Enjoy!
 
 
 
@@ -62,3 +60,6 @@ Share it and you are done!
 
 ### Why `CM_`?
 It is simply a way to easily recognize mods that are a custom map.
+
+### Is it possible to release a mod with multiple custom maps in it?
+It totally is possible, just try to follow the recommended file structure with each map having it's level in `Content/CustomMaps` and their own folder containing all their assets.
