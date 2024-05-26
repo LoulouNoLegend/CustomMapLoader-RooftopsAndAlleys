@@ -8,6 +8,8 @@ If you are only a player, read the player section. If you are a mapper, read the
 In the main menu go to *Tutorials > Advanced*.
 
 If the mod is correctly installed, it should normally open the map loader menu. For now, the map loader works by entering the name of the custom map. In the future, a list should be added to directly select it.
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-Rooftops-Alleys/assets/40952934/9eaa872d-c364-4822-a2b7-9a01444f07c9)
+
 
 You don't need to include `CM_` when entering the name of the map in the *Level Name* entry, since the mod already writes it. This prefix is only a way for modders to make their map be recognized correctly by the map loader.
 
@@ -35,6 +37,8 @@ Create a *CustomMaps* folder inside the *Content* folder where you can place you
 ```
 
 In unreal, it would be like this (From the *CustomMaps* folder):
+![Capture d’écran 2024-05-26 124021](https://github.com/LoulouNoLegend/CustomMapLoader-Rooftops-Alleys/assets/40952934/a9e01c1f-6762-49ef-8907-6ef5e931f324)
+
 
 
 ### The mod itself
