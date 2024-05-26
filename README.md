@@ -17,7 +17,7 @@ You don't need to include `CM_` when entering the name of the map in the *Level 
 
 After entering the map name, click on Load and enjoy!
 
-If the map name is not working, be sure that it's writted correctly.
+If the map name is not working, be sure that it's writted correctly. Enjoy!
 
 
 
@@ -46,4 +46,10 @@ In unreal, it would be like this (From the *CustomMaps* folder):
 
 ### The mod itself
 
-When your map is complete and packed, rename the 3 files of your package to the name of your map and don't forget to add `_P` at the end of it so the game recognize the mod. (Ex: `CM_MapLevel_P.<fileExtention>`)
+When your map is complete and packed, do this:
+- Rename the 3 files of your package to the name of your map
+- Add `_P` at the end of every files so the game recognize the mod
+
+After all that, your 3 files should look like this: `CM_MapName_P.<fileExtention>`
+
+Share it and you are done!
