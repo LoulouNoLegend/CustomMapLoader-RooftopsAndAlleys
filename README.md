@@ -17,8 +17,15 @@ After entering the map name, click on Load and enjoy!
 If the map name is not working, be sure that it's writted correctly or try the other method. Enjoy!
 
 
-
 ## Only for Modders
+
+### The project
+Firstly, you need to create an empty project in Unreal Engine 5.2.1 named "rooftopsandalleys", the same way as if you were doing a Rooftops & Alleys mod.
+
+After opening the project, create an *Asset Data* object inside the "Content" folder.
+
+To create an *Asset Data*, you can follow this little tutorial by Rpatty: [Click Here](https://cdn.discordapp.com/attachments/1156177948597047398/1243325692029177856/2024-05-23_23-10-28.mp4?ex=66550548&is=6653b3c8&hm=69164740dfb766d639d2ff5943109b66656d480a5de12fb3bb0aaec8c9aa1040&)
+
 
 When creating your map, here's some tips:
 ### The folders and how to place your files
