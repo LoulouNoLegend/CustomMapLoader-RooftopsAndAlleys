@@ -51,6 +51,7 @@ When your map is complete and packed, do this:
 - Add `_P` at the end of every files so the game recognize the mod
 
 After all that, your 3 files should look like this: `CM_MapName_P.<fileExtention>`
+If your mod is not using `CM_`, just enter the map name and the suffix `_P`.
 
 Share it and you are done!
 
