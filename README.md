@@ -46,7 +46,6 @@ Right now, there's a lot of possible errors when cooking a map and it still uncl
 
 **7.** Right click and create a folder for all of your assets you are gonna use that has the name of your map *(not an obligation, but the name need to be unique to not interfer if the user as multiple custom maps installed)*
 
-
 **8.** Create your map! If you need help to understand how Unreal Engine works to create maps, there's good tutorials on YouTube.
 
 ### B-3) Package your project
