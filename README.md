@@ -1,7 +1,9 @@
-
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/4a217392-6b5e-48aa-be6d-97f4a5af3ca6)
 # Custom Map Loader - Rooftops & Alleys
 ### Mod Version: Public Beta 1 - At the moment, this mod is being re-made to fit in the main menu. This mod also loads map directly from their name. A list with your installed maps will be added as soon as possible. For help or question, add me on Discord: [LoulouNoLegend](https://discord.com/users/421740856303812630)
 If you are only a player, read the player section. If you are a mapper, read the two sections so your map can work correctly!
+
+Feel free to join the Discord Server by [clicking here](https://discord.gg/kHZVQyVWFq)
 
 ## For Players and Modders
 **Enter the menu:**
@@ -18,49 +20,73 @@ If the map name is not working, be sure that it's writted correctly or try the o
 
 
 ## Only for Modders
-
-### The project
-Firstly, you need to create an empty project in Unreal Engine 5.2.1 named "rooftopsandalleys", the same way as if you were doing a Rooftops & Alleys mod.
-
-After opening the project, create an *Asset Data* object inside the "Content" folder.
-
-To create an *Asset Data*, you can follow this little tutorial by Rpatty: [Click Here](https://cdn.discordapp.com/attachments/1156177948597047398/1243325692029177856/2024-05-23_23-10-28.mp4?ex=66550548&is=6653b3c8&hm=69164740dfb766d639d2ff5943109b66656d480a5de12fb3bb0aaec8c9aa1040&)
+Right now, there's a lot of possible errors when cooking a map and it still unclear why we get them.
 
 
-### The folders and how to place your files
-All your content need to be places in a specific way to work correctly and not interfer with other custom maps.
+### What you need installed
+- Epic Games Launcher
+  - Unreal Engine 5.2.1
+- Rooftops & Alleys.. to test the mod.
 
-Create a *CustomMaps* folder inside the *Content* folder where you can place your level.
-If you want, you can add the `CM_` prefix to your map name, to simply specify that your mod is a custom map. (Ex: `CM_DustCS2`)
+### How to setup the project
+**1.** Download the template project by clicking [here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB1/CustomMapLoader_Template.zip)
+**2.** Extract the "rooftopsandalleys" folder somewhere on your pc.
+**3.** Open the folder and then the "rooftopsandalleys.uproject" file.
+**4.** In your content folder, rename the file `Label_MapName` to your liking by keeping the `Label_` at the start of the name. *(Right click on the file to rename or press F2)*
 
-⚠️ **Be sure to place every assets and sub folders (ex: textures, materials..) of your map in a folder that is the same name as your map to prevent that if the user as multiple custom maps, they don't break each-others!**
-
-```
-└── Content/
-    └── CustomMaps/
-        └── CM_YourMap
-            CM_YourMap/
-            └── Blueprints/
-                ...
-```
-
-In unreal, it would be like this (From the *CustomMaps* folder):
-
-![Capture d’écran 2024-05-26 124021](https://github.com/LoulouNoLegend/CustomMapLoader-Rooftops-Alleys/assets/40952934/a9e01c1f-6762-49ef-8907-6ef5e931f324)
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/2f96f4af-95df-4039-b3d2-35fccd7dae3d)
 
 
+**5.** Open the file you renamed. The only setting you need to change is the second one. Change the *Chunk ID* to a number between 1 and 100 000, then close the file.
 
-### The mod itself
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/f42e4923-a3ca-4c14-9ae8-cf5c6f817a52)
 
-When your map is complete and packed, do this:
-- Rename the 3 files of your package to the name of your map
-- Add `_P` at the end of every files so the game recognize the mod
+**6.** After that, just go inside the *CustomMaps* folder, right click and create a folder for all of your assets that has the name of your map *(not an obligation, but the name need to be unique to not interfer if the user as multiple custom maps installed)*
 
-After all that, your 3 files should look like this: `CM_MapName_P.<fileExtention>`
-If your mod is not using `CM_`, just enter the map name and the suffix `_P`.
+**7.** Create your map! If you need help to understand how Unreal Engine works to create maps, there's good tutorials on YouTube.
 
-Share it and you are done!
+### Package your project
+**1.** Go to *Platforms > Windows* and click on *Package Project*.
+**2.** A window with the folders of your PC should appear in the screen. Create a folder somewhere on your PC, select it and click on *Select the folder* or *Open* at the bottom right of the file explorer.
+**3.** It should now be starting to package.
 
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/4e104f25-faaa-4faa-a9f8-08bc33a46c02)
+
+### Install your map into the game
+**1.** Go to where you decided to package your map.
+**2.** Go into *Windows > rooftopsandalleys > Content > Paks*.
+**3.** There should be some files. The important ones are the ones with the *chunk number* you set earlier in the *Asset Data* file.
+
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/5dac8e6a-6f82-430a-a119-fe0a2a6517b0)
+
+**4.** Select all these files and rename them to the name of your level, adding `_P` at the end. It should look like this.
+
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/fa120c38-47bf-43e0-98ac-07ba2f6671fd)
+
+**5.** Don't close the file explorer, we will need to copy these 3 files somewhere. Find and go into the files of your *Rooftops & Alleys* game. You can simply go in steam, right click on your game and go to *Manage > Browse local files*.
+
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/b146280b-efc2-47cc-9f24-8730a2c79162)
+
+**6.** It should open a file explorer right into the files of the game. Go to *RooftopsandAlleys > Content > Paks* and create a folder named *mods*.
+
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/f07bc7b5-5d6d-4b49-8a54-3e6afc76c060)
+
+**7.** Go into the *mods* folder and copy the 3 files in there.
+
+### Launch your map with Custom Map Loader
+
+**1.** Launch the game. When in the menu, go to *Tutorials > Advanced*. The CML menu should load. Enter the name of your level into the text box and click Load.
+
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/97362c63-2e8c-42bf-98ff-950712e24e76)
+
+
+**2.** If it doesn't work, first make sure your correctly entered the name of the level. If it was the case and it still doesn't load, try the second text box.
+
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/a0cde682-0545-4f59-a762-c7ad60946856)
+
+**3.** If it still doesn't work, be sure that your correctly set up your *chunk number* or that the map cooked correctly. If you really need more help, join the [Rooftops And Alleys Discord Server](https://discord.gg/kHZVQyVWFq).
+
+If it works, enjoy and share it with others!
 
 ## FAQ
 
