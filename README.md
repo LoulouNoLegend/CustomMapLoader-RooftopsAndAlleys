@@ -5,11 +5,11 @@ If you are only a player, read the player section. If you are a mapper, read the
 Feel free to join the Discord Server by [clicking here](https://discord.gg/kHZVQyVWFq)
 
 ## A) For Players and Modders
+To install the mod, follow the section **B-4** right from the number 5.
+
 To open a map, follow the section **B-5**. It works the same way.
 
-If the mod is correctly installed, it should normally open the map loader menu. For now, the map loader works by entering the name of the custom map. In the future, a list should be added to directly select it.
-
-![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/8d1561e5-7232-4de0-a9e0-859778b1b254)
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/040a5d92-ac0e-45e0-8fa9-f271ac54569f)
 
 
 After entering the map name, click on Load and enjoy!
