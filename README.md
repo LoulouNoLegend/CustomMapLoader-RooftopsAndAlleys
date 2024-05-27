@@ -25,6 +25,7 @@ Right now, there's a lot of possible errors when cooking a map and it still uncl
 - Epic Games Launcher
   - Unreal Engine 5.2.1
 - Rooftops & Alleys.. to test the mod.
+  - Custom Map Loader mod
 
 ### B-2) How to setup the project
 **1.** Download the template project by clicking [here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB1/CustomMapLoader_Template.zip)
