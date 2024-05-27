@@ -28,7 +28,7 @@ Right now, there's a lot of possible errors when cooking a map and it still uncl
   - Custom Map Loader mod
 
 ### B-2) How to setup the project
-**1.** Download the template project by clicking [here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB1/Unreal_CML_MapTemplate.zip)
+**1.** Download the template project by clicking [here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB1/UE_CML_MapTemplate.zip)
 
 **2.** Extract the "rooftopsandalleys" folder somewhere on your pc.
 
