@@ -1,4 +1,3 @@
-![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/4a217392-6b5e-48aa-be6d-97f4a5af3ca6)
 # Custom Map Loader - Rooftops & Alleys
 ### Mod Version: Public Beta 1 - At the moment, this mod is being re-made to fit in the main menu. This mod also loads map directly from their name. A list with your installed maps will be added as soon as possible. For help or question, add me on Discord: [LoulouNoLegend](https://discord.com/users/421740856303812630)
 If you are only a player, read the player section. If you are a mapper, read the two sections so your map can work correctly!
