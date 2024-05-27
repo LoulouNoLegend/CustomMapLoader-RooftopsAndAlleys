@@ -39,9 +39,12 @@ Right now, there's a lot of possible errors when cooking a map and it still uncl
 
 ![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/f42e4923-a3ca-4c14-9ae8-cf5c6f817a52)
 
-**6.** After that, just go inside the *CustomMaps* folder, right click and create a folder for all of your assets that has the name of your map *(not an obligation, but the name need to be unique to not interfer if the user as multiple custom maps installed)*
+**6.** After that, just go inside the *CustomMaps* folder. Rename the part after `CM_` to the name of your map.
 
-**7.** Create your map! If you need help to understand how Unreal Engine works to create maps, there's good tutorials on YouTube.
+**7.** Right click and create a folder for all of your assets you are gonna use that has the name of your map *(not an obligation, but the name need to be unique to not interfer if the user as multiple custom maps installed)*
+
+
+**8.** Create your map! If you need help to understand how Unreal Engine works to create maps, there's good tutorials on YouTube.
 
 ### B-3) Package your project
 **1.** Go to *Platforms > Windows* and click on *Package Project*.
