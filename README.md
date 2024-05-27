@@ -1,6 +1,6 @@
 # Custom Map Loader - Rooftops & Alleys
 
-The documentation was transfered to another place. It may miss some precisions right now.
+The documentation was transfered to another place. It's still not complete, but will be with time.
 
 New Documentation: [click here](https://rna-modding.gitbook.io/custom-map-loader-rooftops-and-alleys/)
 
