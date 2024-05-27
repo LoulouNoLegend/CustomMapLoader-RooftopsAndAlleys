@@ -28,8 +28,11 @@ Right now, there's a lot of possible errors when cooking a map and it still uncl
 
 ### B-2) How to setup the project
 **1.** Download the template project by clicking [here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB1/CustomMapLoader_Template.zip)
+
 **2.** Extract the "rooftopsandalleys" folder somewhere on your pc.
+
 **3.** Open the folder and then the "rooftopsandalleys.uproject" file.
+
 **4.** In your content folder, rename the file `Label_MapName` to your liking by keeping the `Label_` at the start of the name. *(Right click on the file to rename or press F2)*
 
 ![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/2f96f4af-95df-4039-b3d2-35fccd7dae3d)
@@ -48,14 +51,18 @@ Right now, there's a lot of possible errors when cooking a map and it still uncl
 
 ### B-3) Package your project
 **1.** Go to *Platforms > Windows* and click on *Package Project*.
+
 **2.** A window with the folders of your PC should appear in the screen. Create a folder somewhere on your PC, select it and click on *Select the folder* or *Open* at the bottom right of the file explorer.
+
 **3.** It should now be starting to package.
 
 ![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/4e104f25-faaa-4faa-a9f8-08bc33a46c02)
 
 ### B-4) Install your map into the game
 **1.** Go to where you decided to package your map.
+
 **2.** Go into *Windows > rooftopsandalleys > Content > Paks*.
+
 **3.** There should be some files. The important ones are the ones with the *chunk number* you set earlier in the *Asset Data* file.
 
 ![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/5dac8e6a-6f82-430a-a119-fe0a2a6517b0)
