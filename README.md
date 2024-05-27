@@ -74,12 +74,11 @@ Right now, there's a lot of possible errors when cooking a map and it still uncl
 ### B-5) Launch your map with Custom Map Loader
 **1.** Launch the game. When in the menu, go to *Tutorials > Advanced*. The CML menu should load. Enter the name of your level into the text box and click Load.
 
-![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/97362c63-2e8c-42bf-98ff-950712e24e76)
-
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/cfcc5947-0222-4d86-b8d4-ad971c5b9981)
 
 **2.** If it doesn't work, first make sure your correctly entered the name of the level. If it was the case and it still doesn't load, try the second text box.
 
-![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/a0cde682-0545-4f59-a762-c7ad60946856)
+![image](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/assets/40952934/074b4b42-b331-4fe9-95d3-4c71cad11b42)
 
 **3.** If it still doesn't work, be sure that your correctly set up your *chunk number* or that the map cooked correctly. If you really need more help, join the [Rooftops And Alleys Discord Server](https://discord.gg/kHZVQyVWFq).
 
