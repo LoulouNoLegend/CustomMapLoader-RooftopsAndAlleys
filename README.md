@@ -12,4 +12,6 @@ Old Documentation: [click here](https://github.com/LoulouNoLegend/CustomMapLoade
 
 The mod *(DL the last version)*: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases)
 
+Nexus Mods page: [click here](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/28)
+
 The UE template for modders: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB2/UE_CML_MapTemplate.zip)
