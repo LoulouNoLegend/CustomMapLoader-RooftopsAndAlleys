@@ -4,7 +4,7 @@
 
 The documentation was transfered to another place. It's still not complete, but will be with time.
 
-New Documentation: [click here](https://rna-modding.gitbook.io/custom-map-loader-rooftops-and-alleys/)
+New Documentation: [click here](https://rna-modding.gitbook.io/doc/custom-maps/map-loaders/install-custom-maps-loader)
 
 Old Documentation: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/blob/7fa485ec5b4c2ce57a571eba360f691a117ec573/old_README.md)
 
