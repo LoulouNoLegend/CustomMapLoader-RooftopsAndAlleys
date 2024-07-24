@@ -8,10 +8,9 @@ This might be the first custom map loader of the game, but it's still here!
 
 ### Downloads
 
-The mod: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases)
-*(Download the last version)*
+From Github: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases)
 
-Nexus Mods page: [click here](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/28)
+From Nexus Mods: [click here](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/28)
 
 
 # Custom Map Template V2 - Unreal Engine Project Template
