@@ -1,4 +1,7 @@
-# Custom Map Loader - Rooftops & Alleys
+# Custom Map Loader (CML) - Rooftops & Alleys Mod
+# Custom Map Template V2
+
+This might be the first custom map loader of the game, but it's still here!
 
 ### Documentation
 
@@ -10,8 +13,9 @@ Old Documentation: [click here](https://github.com/LoulouNoLegend/CustomMapLoade
 
 ### Downloads
 
-The mod *(DL the last version)*: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases)
+The mod: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases)
+*(Download the last version)*
 
 Nexus Mods page: [click here](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/28)
 
-The UE template for modders: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB5/UE521-CustomMap-Template-V2.zip)
+The Unreal Engine template for modders: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB5/UE521-CustomMap-Template-V2.zip)
