@@ -18,7 +18,7 @@ The mod: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-Rooftops
 Nexus Mods page: [click here](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/28)
 
 
-# Custom Map Template V2
+# Custom Map Template V2 - Unreal Engine Project Template
 
 An easy to use template can be downloaded! Only need to change the mod ID, then rename the map and there is your mod!
 
