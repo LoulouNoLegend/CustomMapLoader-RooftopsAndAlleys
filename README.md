@@ -1,6 +1,6 @@
 # Custom Map Loader (CML) - Rooftops & Alleys Mod
 
-This might be the first custom map loader of the game, but it's still here!
+This might be the first custom maps loader of the game, but it's still here!
 
 ### Documentation
 
