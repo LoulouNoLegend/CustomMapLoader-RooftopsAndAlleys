@@ -16,7 +16,7 @@ From Nexus Mods: [click here](https://www.nexusmods.com/rooftopsandalleysthepark
 
 
 
-# [Custom Map Template V3 - Unreal Engine Project Template](https://github.com/LoulouNoLegend/RNA-CustomMapTemplate)
+# [Custom Map Template V3 - Unreal Engine Project Template (Click to access the page)](https://github.com/LoulouNoLegend/RNA-CustomMapTemplate)
 
 An easy to use template can be downloaded! Only need to change the mod ID, then rename the map and there is your mod!
 
