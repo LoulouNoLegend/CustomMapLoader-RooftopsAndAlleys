@@ -20,4 +20,4 @@ From Nexus Mods: [click here](https://www.nexusmods.com/rooftopsandalleysthepark
 
 An easy to use template can be downloaded! Only need to change the mod ID, then rename the map and there is your mod!
 
-For the download, [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB8/CustomMapTemplate-v4.zip)
+For the download, [click here](https://github.com/LoulouNoLegend/CustomMapLoader-RooftopsAndAlleys/releases/download/PB9/CustomMapTemplate-v4.zip)
