@@ -1,6 +1,6 @@
 # Custom Map Loader (CML) - Rooftops & Alleys Mod
 
-This might be the first custom maps loader of the game, but it's still here!
+This might be the first Custom Map Loader of the game, but it's still here!
 
 ### Documentation
 
@@ -12,7 +12,7 @@ From Github: [click here](https://github.com/LoulouNoLegend/CustomMapLoader-Roof
 
 From Nexus Mods: [click here](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/28)
 
-![image](https://github.com/user-attachments/assets/f61c50f6-2759-4996-899b-96293bc76d6c)
+![image](https://github.com/user-attachments/assets/d2049371-4b48-4df5-b3a8-a0162e135f54)
 
 
 
