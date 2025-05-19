@@ -1,3 +1,16 @@
+> ## ⚠️  EOL Notice  
+> **Support for this mod has been dropped—please use [DmgModLoader (DML)](https://www.nexusmods.com/rooftopsandalleystheparkourgame/mods/16) for the best experience.**
+
+### Thanks for all the love and messages! 💜
+
+I’m honored to have helped push RNA’s boundaries by bringing Custom Maps to the game. ❤️  
+Huge thanks to the modders who turned my template into amazing maps and to this awesome community. I know the RNA dev is proud of what we’ve built.  
+Custom-map support now moves to **DMGVol**. Thanks for everything, and see you in-game! 🙂
+
+**Join the conversation on the [official Rooftops & Alleys Discord](https://discord.gg/rooftopsandalleys)!**
+
+---
+
 # Custom Map Loader (CML) - Rooftops & Alleys Mod
 
 CML is the first map loader of Rooftops & Alleys!
