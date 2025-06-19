@@ -3,7 +3,7 @@
 
 ### Thanks for all the love and messages! 💜
 
-I’m honored to have helped push RNA’s boundaries by bringing Custom Maps to the game. ❤️  
+I’m honored to have helped push RNA’s boundaries by releasing this Custom Maps loader. ❤️  
 Huge thanks to the modders who turned my template into amazing maps and to this awesome community. I know the RNA dev is proud of what we’ve built.  
 Custom-map support now moves to **DMGVol**. Thanks for everything, and see you in-game! 🙂
 
